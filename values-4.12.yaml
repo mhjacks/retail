@@ -1,0 +1,3 @@
+---
+kafkaVersion: "3.3.1"
+kafkaInterBrokerVersion: "3.3"

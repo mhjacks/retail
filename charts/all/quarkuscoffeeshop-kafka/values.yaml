@@ -3,6 +3,9 @@ global:
   hubClusterDomain: hub.example.com
   localClusterDomain: example.com
 
+kafkaVersion: 3.1.0
+kafkaInterBrokerVersion: 3.1
+
 clusterGroup:
   isHubCluster: false
 
