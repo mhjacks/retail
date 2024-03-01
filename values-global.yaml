@@ -9,8 +9,8 @@ global:
 
   git:
     hostname: github.com
-    account: mhjacks
-    username: mhjacks
+    account: validatedpatterns-demos
+    username: validatedpatterns-demos
     email: SOMEWHERE@EXAMPLE.COM
     dev_revision: main
 
