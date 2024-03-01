@@ -9,13 +9,13 @@ global:
 
   git:
     hostname: github.com
-    account: validatedpatterns-demos
-    username: validatedpatterns-demos
+    account: mhjacks
+    username: mhjacks
     email: SOMEWHERE@EXAMPLE.COM
     dev_revision: main
 
   imageregistry:
-    account: hybridcloudpatterns
+    account: martjack
     hostname: quay.io
     type: quay
 
